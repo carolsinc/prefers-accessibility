@@ -63,7 +63,7 @@ html {
 
 /* stylelint-disable media-feature-name-no-unknown */
 
-@media (prefers-rduced-motion) {
+@media (prefers-reduced-motion) {
 
   img {
     animation: none;
@@ -71,7 +71,7 @@ html {
 
 }
 
-@media (prefers-color-scheme) {
+@media (prefers-color-scheme: dark) {
 
   body {
     background-color: #222;
