@@ -69,7 +69,13 @@ html {
 }
 
 @media (prefers-color-scheme) {
+  body {
+    background-color:#222;
+  }
 
+  .banner {
+    opacity: .5;
+  }
 }
 /**
  * =============
